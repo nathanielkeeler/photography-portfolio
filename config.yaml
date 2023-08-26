@@ -1,0 +1,59 @@
+baseURL: https://eternity.bora.sh
+title: Nathaniel Keeler
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: ''
+
+params:
+  image: /images/banner.png
+  logo: pioneer.png
+  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+  copyright: All rights reserved.
+  author: Nathaniel Keeler
+  dontShowSource: false
+  dontShowLogo: false
+  portfolio:
+    columns:
+      desktop:
+        default: 3
+      mobile:
+        default: 2
+  socials:
+    - icon: 'fa-regular fa-envelope fa-lg'
+      url: 'mailto:eternity@bora.sh'
+      landing: true
+    - icon: 'fa-brands fa-github fa-lg'
+      url: 'https://github.com/nathanielkeeler'
+      landing: true
+    - icon: 'fa-brands fa-linkedin fa-lg'
+      url: 'https://www.linkedin.com/in/nathaniel-keeler-596843233/'
+      landing: true
+  # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: false # redirects "/" to "homepage" when set to true.
+  plausible: ''
+  disableWelcomePageBackground: false
+  disableRadius: true
+  moveIt: false # moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+# todo: uncomment menu.main array after you create contents.
+# menu:
+#   main:
+#     - name: work
+#       url: /work/
+#       weight: 1
