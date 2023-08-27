@@ -8,9 +8,9 @@ params:
   image: /images/banner.png
   logo: pioneer.png
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
-  copyright: All rights reserved.
+  # copyright: All rights reserved.
   author: Nathaniel Keeler
-  dontShowSource: false
+  dontShowSource: true
   dontShowLogo: false
   portfolio:
     columns:
@@ -28,9 +28,9 @@ params:
     - icon: 'fa-brands fa-linkedin fa-lg'
       url: 'https://www.linkedin.com/in/nathaniel-keeler-596843233/'
       landing: true
-  # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  homepage: "/home" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
-    - work
+    - home
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when set to true.
   plausible: ''
@@ -51,9 +51,32 @@ taxonomies:
 permalinks:
   work: ":filename/"
 
-# todo: uncomment menu.main array after you create contents.
-# menu:
-#   main:
-#     - name: work
-#       url: /work/
-#       weight: 1
+menu:
+  main:
+    - name: home
+      url: /home/
+      weight: 1
+    - name: analog
+      url: /tags/analog/
+      weight: 2
+    - name: animals
+      url: /tags/animals/
+      weight: 3
+    - name: astro
+      url: /tags/astro/
+      weight: 4
+    - name: landscape
+      url: /tags/landscape/
+      weight: 5
+    - name: people
+      url: /tags/people/
+      weight: 6
+    - name: urban
+      url: /tags/urban/
+      weight: 7
+    - name: archive
+      url: /tags/archive/
+      weight: 8
+    - name: about
+      url: /about/
+      weight: 9
