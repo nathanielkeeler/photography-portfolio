@@ -24,6 +24,3 @@ By day, I'm a system developer, diving into the world of coding and problem-solv
 
 So join me in this adventure of seeing the world differently, where every snapshot is a piece of art and every day is a new opportunity to uncover the extraordinary.
 
-### Contact
-
-If you need to contact me for any reason, refer to my social links in the top right corner.

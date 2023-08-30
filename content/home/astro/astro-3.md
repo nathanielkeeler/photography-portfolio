@@ -1,19 +1,18 @@
 ---
-weight: 1
+weight: 3
 images:
-- /images/animals-1.jpg
+- /images/astro-3.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: Ngorongoro Nights
 # subtitle: 
 tags:
 - home
 - archive
-- animals
+- astro
 # date: 
 # url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true
 ---
-

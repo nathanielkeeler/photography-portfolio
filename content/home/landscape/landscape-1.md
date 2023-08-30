@@ -1,17 +1,17 @@
 ---
-weight: 4
+weight: 1
 images:
 - /images/landscape-1.jpg
 # mainImage: 
 # multipleColumn: true
 title: Säntis
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive
 - landscape
-# date: 2022-07-24
-# url: me
+# date: 
+# url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true

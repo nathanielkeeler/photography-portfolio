@@ -1,17 +1,17 @@
 ---
-weight: 6
+weight: 1
 images:
 - /images/urban-1.jpg
 # mainImage: 
 # multipleColumn: true
 title: Skylines
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive
 - urban
-# date: 2022-07-24
-# url: me
+# date: 
+# url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true

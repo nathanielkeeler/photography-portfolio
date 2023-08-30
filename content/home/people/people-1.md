@@ -1,17 +1,17 @@
 ---
-weight: 5
+weight: 1
 images:
 - /images/people-1.jpg
 # mainImage: 
 # multipleColumn: true
 title: Francesca
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive
 - people
-# date: 2022-07-24
-# url: me
+# date: 
+# url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true

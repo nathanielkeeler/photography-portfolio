@@ -1,17 +1,17 @@
 ---
-weight: 3
+weight: 2
 images:
 - /images/astro-2.jpg
 # mainImage: 
 # multipleColumn: true
 title: Kilimanjaro
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive
 - astro
-# date: 2022-07-24
-# url: me
+# date: 
+# url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true

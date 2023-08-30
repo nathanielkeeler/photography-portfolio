@@ -1,5 +1,5 @@
 baseURL: https://nathaniel-keeler-photography.me
-title: Nathaniel Keeler
+title: pioneer pics
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: ''
@@ -8,9 +8,9 @@ params:
   image: /images/banner.png
   logo: pioneer.png
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
-  # copyright: All rights reserved.
+  copyright: All rights reserved.
   author: Nathaniel Keeler
-  dontShowSource: true
+  dontShowSource: false
   dontShowLogo: false
   portfolio:
     columns:
@@ -20,7 +20,7 @@ params:
         default: 2
   socials:
     - icon: 'fa-regular fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:keeler@gmx.de'
       landing: true
     - icon: 'fa-brands fa-github fa-lg'
       url: 'https://github.com/nathanielkeeler'

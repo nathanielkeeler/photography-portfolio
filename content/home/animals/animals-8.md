@@ -1,10 +1,10 @@
 ---
-weight: 1
+weight: 8
 images:
-- /images/animals-1.jpg
+- /images/animals-8.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: Fuzz
 # subtitle: 
 tags:
 - home
@@ -16,4 +16,3 @@ tags:
 # hideExif: true
 # hideDate: true
 ---
-

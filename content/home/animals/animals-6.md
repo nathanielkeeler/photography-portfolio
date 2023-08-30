@@ -1,10 +1,10 @@
 ---
-weight: 1
+weight: 6
 images:
-- /images/animals-1.jpg
+- /images/animals-6.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: On the hunt
 # subtitle: 
 tags:
 - home
@@ -16,4 +16,3 @@ tags:
 # hideExif: true
 # hideDate: true
 ---
-

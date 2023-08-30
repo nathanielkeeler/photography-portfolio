@@ -1,19 +1,18 @@
 ---
-weight: 1
+weight: 3
 images:
-- /images/animals-1.jpg
+- /images/urban-3.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: Eiffel Tower
 # subtitle: 
 tags:
 - home
 - archive
-- animals
+- urban
 # date: 
 # url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true
 ---
-

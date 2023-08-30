@@ -1,10 +1,10 @@
 ---
-weight: 1
+weight: 4
 images:
-- /images/animals-1.jpg
+- /images/animals-4.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: Vervet Monkey
 # subtitle: 
 tags:
 - home
@@ -16,4 +16,3 @@ tags:
 # hideExif: true
 # hideDate: true
 ---
-

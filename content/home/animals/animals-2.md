@@ -5,7 +5,7 @@ images:
 # mainImage: 
 # multipleColumn: true
 title: Cape Buffalo
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive

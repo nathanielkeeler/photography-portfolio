@@ -1,17 +1,17 @@
 ---
-weight: 2
+weight: 3
 images:
 - /images/animals-3.jpg
 # mainImage: 
 # multipleColumn: true
 title: White-Backed Vulture
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive
 - animals
-# date: 2022-07-24
-# url: me
+# date: 
+# url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true

@@ -1,10 +1,10 @@
 ---
-weight: 1
+weight: 7
 images:
-- /images/animals-1.jpg
+- /images/animals-7.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: Lioness
 # subtitle: 
 tags:
 - home
@@ -16,4 +16,3 @@ tags:
 # hideExif: true
 # hideDate: true
 ---
-

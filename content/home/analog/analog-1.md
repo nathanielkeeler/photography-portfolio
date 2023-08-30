@@ -5,14 +5,14 @@ images:
 # mainImage: 
 # multipleColumn: true
 title: Omaha Beach
-# subtitle: Here's who am I.
+# subtitle: 
 tags:
 - home
 - archive
 - analog
-# date: 2022-07-24
-# url: me
+# date: 
+# url: 
 # hideTitle: true
-hideExif: true
+# hideExif: true
 # hideDate: true
 ---

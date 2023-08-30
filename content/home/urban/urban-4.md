@@ -1,19 +1,18 @@
 ---
-weight: 1
+weight: 4
 images:
-- /images/animals-1.jpg
+- /images/urban-4.jpg
 # mainImage: 
 # multipleColumn: true
-title: Zebra
+title: Heidelberg
 # subtitle: 
 tags:
 - home
 - archive
-- animals
+- urban
 # date: 
 # url: 
 # hideTitle: true
 # hideExif: true
 # hideDate: true
 ---
-
